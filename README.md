@@ -3,3 +3,4 @@
 
 ### Project 0:
 Tic-Tac-Toe
+The code for the AI system was implemented in tic-tac-toe/tictactoe.py
